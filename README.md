@@ -1,5 +1,4 @@
 # Hi everyone! \(￣︶￣*\))
----
 
 ### Type of Repository:
 - [Simple](https://github.com/Clouza?tab=repositories&q=simple) (Full native)
