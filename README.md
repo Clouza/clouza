@@ -10,8 +10,9 @@ or do you want something different? [take me away](https://clouza.github.io/rand
 ![Clouza](https://github-readme-stats.vercel.app/api?username=clouza&theme=graywhite&show_icons=true)
 ---
 
-<p  align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=clouza.clouza" alt="visitor"/>
-</p>
+![Visitor](https://komarev.com/ghpvc/?username=clouza&style=for-the-badge)
+![Spotify](https://img.shields.io/badge/Spotify-clouza-brightgreen?style=for-the-badge&logo=spotify)
+![Steam](https://img.shields.io/badge/Steam-clouza-%231b2838?style=for-the-badge&logo=steam)
 
-still building an empire...
+
+ > Clouza 2022
