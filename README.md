@@ -1,7 +1,7 @@
 # Hi everyone! \(￣︶￣*\))
 
 ### Type of Repository
-- [Simple](https://github.com/Clouza?tab=repositories&q=simple) (Full native)
+- [Simple](https://github.com/Clouza?tab=repositories&q=simple) (Experimental result)
 - [FCC](https://github.com/Clouza?tab=repositories&q=fcc) (freeCodeCamp projects)
 
 or do you want something different? [take me away](https://clouza.github.io/random-repository/)
