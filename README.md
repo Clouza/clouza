@@ -7,12 +7,15 @@
 or do you want something different? [take me away](https://clouza.github.io/random-repository/)
 
 ### Stats
-![Clouza](https://github-readme-stats.vercel.app/api?username=clouza&theme=graywhite&show_icons=true)
+![Clouza stats](https://github-readme-stats.vercel.app/api?username=clouza&theme=graywhite&show_icons=true&hide=issues)
+![Clouza lang](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=graywhite)
 ---
 
 ![Visitor](https://komarev.com/ghpvc/?username=clouza&style=for-the-badge)
 ![Spotify](https://img.shields.io/badge/Spotify-clouza-brightgreen?style=for-the-badge&logo=spotify)
 ![Steam](https://img.shields.io/badge/Steam-clouza-%231b2838?style=for-the-badge&logo=steam)
+
+![Clouza contributes](https://activity-graph.herokuapp.com/graph?username=clouza&theme=github)
 
 
  > Clouza 2022
