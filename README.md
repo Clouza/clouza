@@ -7,8 +7,11 @@
 or do you want something different? [take me away](https://clouza.github.io/random-repository/)
 
 ### Stats
-![Clouza stats](https://github-readme-stats.vercel.app/api?username=clouza&theme=graywhite&show_icons=true&hide=issues)
-![Clouza lang](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=graywhite)
+<div>
+ <img src="https://github-readme-stats.vercel.app/api?username=clouza&theme=graywhite&show_icons=true&hide=issues">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=graywhite">
+</div>
+
 ---
 
 ![Visitor](https://komarev.com/ghpvc/?username=clouza&style=for-the-badge)
