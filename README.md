@@ -18,7 +18,5 @@ or do you want something different? [take me away](https://clouza.github.io/rand
 ![Spotify](https://img.shields.io/badge/Spotify-clouza-brightgreen?style=for-the-badge&logo=spotify)
 ![Steam](https://img.shields.io/badge/Steam-clouza-%231b2838?style=for-the-badge&logo=steam)
 
-![Clouza contributes](https://activity-graph.herokuapp.com/graph?username=clouza&theme=github)
-
-
  > Clouza 2022
+ 
