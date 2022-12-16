@@ -23,7 +23,6 @@ or do you want something different? [take me away](https://clouza.github.io/rand
 ### Stats
 <div>
  <img src="https://github-readme-stats.vercel.app/api?username=clouza&theme=graywhite&show_icons=true&hide=issues">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=graywhite">
 </div>
 
 ---
