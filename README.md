@@ -12,5 +12,4 @@ Do many things? really?
 ![Spotify](https://img.shields.io/badge/Spotify-clouza-brightgreen?style=for-the-badge&logo=spotify)
 ![Steam](https://img.shields.io/badge/Steam-clouza-%231b2838?style=for-the-badge&logo=steam)
 
- > Clouza 2022 - [take me away](https://clouza.github.io/random-repository/)
- 
+ > Clouza 2023 - [take me away](https://clouza.github.io/random-repository/)
