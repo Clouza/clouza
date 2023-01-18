@@ -1,10 +1,8 @@
-# Hi everyone! \(￣︶￣*\))
-Do many things? really?
+## Hi everyone!
+**Entry-level programmer** who's really into cyber security and loves playing MMORPG games
 
-### Stats
-<div>
- <img src="https://github-readme-stats.vercel.app/api?username=clouza&theme=graywhite&show_icons=true&hide=issues">
-</div>
+### Current activity 
+Trying to be a Philosopher
 
 ---
 
