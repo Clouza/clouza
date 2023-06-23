@@ -1,5 +1,5 @@
 ## Hi everyone!
-**Entry-level programmer** who's really into cyber security and loves playing MMORPG games
+**Software Engineer** who's like do many things
 
 ### Current activity 
 Trying to be a Philosopher
